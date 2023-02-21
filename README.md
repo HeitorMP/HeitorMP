@@ -36,6 +36,8 @@ int	main(int argc, char **argv)
 	printf("Challange: %s", me.challange);
 }
 ```
+## I love talking about programming, games and technology, feel free to contact me!
+[leave me a message](https://github.com/HeitorMP/HeitorMP/discussions/1)
 <div align="center">
   <a href="https://github.com/HeitorMP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorMP&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
