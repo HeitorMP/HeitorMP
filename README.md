@@ -7,7 +7,7 @@ typedef struct s_about
 {
 	char	*name;
 	char	*more[4];
-	char	*challange;
+	char	*challenge;
 }				t_about;
 
 t_about	get_info()
