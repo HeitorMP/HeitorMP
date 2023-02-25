@@ -16,10 +16,9 @@ t_about	get_info()
 
 	this_me.name	= "Heitor";
 	this_me.more[0] = "I like to create games for atari 2600 using Batari.";
-	this_me.more[1] = "How to reach me: heitormp@protonmail.com";
-	this_me.more[2] = "I like to create games for atari 2600 using Batari.";
-	this_me.more[3] = "Fun fact: I started studying at 42 school at age 42, which must mean something... or not!";
-	this_me.challange = "I am currently studying programming at 42 Porto school.";
+	this_me.more[1]= "How to reach me: heitormp@protonmail.com";
+	this_me.more[2]= "Fun fact: I started studying at 42 school at age 42, which must mean something... or not!";
+	this_me.challange = "I am currently studying C language at 42 Porto school.";
 	return this_me;
 }
 
@@ -29,7 +28,7 @@ int	main(int argc, char **argv)
 
 	printf("Hello, my name is %s!\n", me.name);
 	printf("Here is a little more about me:\n")	;
-	for (int element = 0; element < 5; element++)
+	for (int element = 0; element < 3; element++)
 	{
 		printf("📌 - %s\n", me.more[element]);
 	}
