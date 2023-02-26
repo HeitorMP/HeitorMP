@@ -27,7 +27,7 @@ int	main(int argc, char **argv)
 	t_about me = get_info();
 
 	printf("Hello, my name is %s!\n", me.name);
-	printf("Here is a little more about me:\n")	;
+	printf("Here is a little more about me:\n");
 	for (int element = 0; element < 3; element++)
 	{
 		printf("📌 - %s\n", me.more[element]);
