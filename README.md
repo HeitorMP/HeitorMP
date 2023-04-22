@@ -1,4 +1,4 @@
-### Greetings!!
+### Greetings, good master. Welcome to the Tavern of the Rising Sun.
 ```C
 
 #include <stdio.h>
