@@ -5,8 +5,8 @@
 │
 ├─▣ Software Engineer Student at 42 Porto
 ├─▣ From Brazil, living in Portugal
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, .
+├─▣ Interested in low-level programmin and game development.
+├─▣ I like to develop games for atari 2600 as a hobby .
 │
 └───────────────────────────────▰▰▰
 
@@ -43,7 +43,7 @@
 
 ┌──┤ OTHER STUFF ├───────▰▰▰
 │
-├─✓ <a href="https://github.com/HeitorMP/chatgpt-discordbot">chatgpt-discordbot</a>
+├─✓ <a href="https://github.com/HeitorMP/chatgpt-discordbot">python chatgpt discord bot</a>
 ├─✓ <a href="https://github.com/HeitorMP/password_security_checker">password_security_checker</a>
 ├─✓ <a href="https://github.com/HeitorMP/randomgatesweb">Random Gates Atari 2600 game</a>
 │
