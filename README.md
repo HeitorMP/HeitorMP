@@ -10,7 +10,7 @@
 │
 └───────────────────────────────▰▰▰
 
-
+ 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─✓ <a href="https://www.linkedin.com/in/heitor-maciel-pinto-1216a324/" rel="nofollow">LinkedIn</a>
