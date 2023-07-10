@@ -5,8 +5,8 @@
 │
 ├─▣ Software Engineer Student at 42 Porto
 ├─▣ From Brazil, living in Portugal
-├─▣ Interested in low-level programmin and game development.
-├─▣ I like to develop games for atari 2600 as a hobby .
+├─▣ Interested in low-level programmin and game development
+├─▣ I like to develop games for atari 2600 as a hobby
 │
 └───────────────────────────────▰▰▰
 
