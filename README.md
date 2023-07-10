@@ -13,6 +13,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─✓ <a href="https://www.linkedin.com/in/heitor-maciel-pinto-1216a324/" rel="nofollow">LinkedIn</a>
+├─✓ <a href="http://hmaciel.pythonanywhere.com/" rel="nofollow">portfolio</a>
 │
 └───────────────────────────────▰▰▰
 
