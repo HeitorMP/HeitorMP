@@ -12,7 +12,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─✓ <a href="https://www.linkedin.com/in/achraf-elkhnissi" rel="nofollow">LinkedIn</a>
+├─✓ <a href="https://www.linkedin.com/in/heitor-maciel-pinto-1216a324/" rel="nofollow">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -36,7 +36,7 @@
 │
 ├─✓ <a href="https://github.com/HeitorMP/ZTM-Complete-Python-Developer">ZTM-Complete-Python-Developer </a>
 ├─✓ <a href="https://github.com/HeitorMP/password_security_checker">password_security_checker</a>
-├─✓ <a href="git@github.com:HeitorMP/pdf-merger-python.git">pdf-merger</a>
+├─✓ <a href="https://github.com/HeitorMP/pdf-merger-python">pdf-merger</a>
 │
 └───────────────────────────────▰▰▰
 
