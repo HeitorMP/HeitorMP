@@ -41,7 +41,7 @@
 └───────────────────────────────▰▰▰
 
 
-┌──┤ OTHER STUFF ├───────▰▰▰
+┌──┤ OTHER STUFFS ├───────▰▰▰
 │
 ├─✓ <a href="https://github.com/HeitorMP/chatgpt-discordbot">python chatgpt discord bot</a>
 ├─✓ <a href="https://github.com/HeitorMP/password_security_checker">password_security_checker</a>
