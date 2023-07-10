@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://badge.mediaplus.ma/darkblue/hmaciel-?1337Badge=off&UM6P=off"  width="70%" height="70%"/>
 </div>
-<pre>┌──┤ WHOAMI ├─────────▰▰▰
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Software Engineer Student at 42 Porto
 ├─▣ From Brazil, living in Portugal
@@ -10,7 +11,7 @@
 │
 └───────────────────────────────▰▰▰
 
- 
+
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─✓ <a href="https://www.linkedin.com/in/heitor-maciel-pinto-1216a324/" rel="nofollow">LinkedIn</a>
@@ -51,3 +52,4 @@
 ├─✓ <a href="https://github.com/HeitorMP/randomgatesweb">Random Gates Atari 2600 game</a>
 │
 └───────────────────────────────▰▰▰
+</pre>
