@@ -10,16 +10,14 @@
 ├─▣ I like to develop games for atari 2600 as a hobby
 │
 └───────────────────────────────▰▰▰
-
-
+<p></p>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─✓ <a href="https://www.linkedin.com/in/heitor-maciel-pinto-1216a324/" rel="nofollow">LinkedIn</a>
 ├─✓ <a href="http://hmaciel.pythonanywhere.com/" rel="nofollow">portfolio</a>
 │
 └───────────────────────────────▰▰▰
-
-
+<p></p>
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─✓ <a href="https://github.com/HeitorMP/42-libft">libft</a>
@@ -34,8 +32,7 @@
 ├─✓ <a href="https://github.com/HeitorMP/42-cpp-modules">cpp_modules</a>
 │
 └───────────────────────────────▰▰▰
-
-
+<p></p>
 ┌──┤ PYTHON ZTM PROJECTS ├───────▰▰▰
 │
 ├─✓ <a href="https://github.com/HeitorMP/ZTM-Complete-Python-Developer">ZTM-Complete-Python-Developer </a>
@@ -43,8 +40,7 @@
 ├─✓ <a href="https://github.com/HeitorMP/pdf-merger-python">pdf-merger</a>
 │
 └───────────────────────────────▰▰▰
-
-
+<p></p>
 ┌──┤ OTHER STUFFS ├───────▰▰▰
 │
 ├─✓ <a href="https://github.com/HeitorMP/chatgpt-discordbot">python chatgpt discord bot</a>
