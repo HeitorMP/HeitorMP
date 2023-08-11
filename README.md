@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll6jmjs2004008jukrwt5x9o/stats?cursusId=21&coalitionId=295" alt="hmaciel-'s 42 stats" /></a>
 </div>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll6jmjs2004008jukrwt5x9o/project/3231201" alt="hmaciel-'s 42 Inception Score" /></a>
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
