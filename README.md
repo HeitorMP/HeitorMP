@@ -1,6 +1,6 @@
-[![hmaciel-'s 42 stats](https://badge.mediaplus.ma/darkblue/hmaciel-)](https://github.com/oakoudad/badge42)
+
 <div id="header" align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll6jmjs2004008jukrwt5x9o/stats?cursusId=21&coalitionId=295" alt="hmaciel-'s 42 stats" /></a>
+  [![hmaciel-'s 42 stats](https://badge.mediaplus.ma/darkblue/hmaciel-)](https://github.com/oakoudad/badge42)
 </div>
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
